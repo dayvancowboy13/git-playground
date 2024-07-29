@@ -1,2 +1,2 @@
 This is the first test file
-it is VERY nice :)
+it is *kind of* nice :)
